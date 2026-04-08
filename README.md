@@ -18,7 +18,7 @@ This work introduces a convergence-based framework showing that:
 Binding geometry and energetic stabilization are decoupled in lipid-binding systems.
 
 Installation
-git clone https://github.com/YOUR_USERNAME/schistosome-lipid-trafficking.git
+git clone https://github.com/EvansKCCR/schistosome-lipid-trafficking.git
 cd schistosome-lipid-trafficking
 pip install -r requirements.txt
 Usage

@@ -1,0 +1,23 @@
+{
+  "mode": "ceh",
+  "ligand_resname": "UNL",
+  "ceh_residues": {
+    "serine": 207,
+    "histidine": 508,
+    "primary_acid": 388,
+    "alternative_acid": 206,
+    "oxyanion_residues": [128, 129],
+    "pocket_residues": [128, 129, 130, 206, 207, 242, 349, 391, 508],
+    "key_contact_residues": [127, 128, 129, 130, 206, 207, 508]
+  },
+  "ligand_atoms": {
+    "reactive_carbonyl_carbon": "C26",
+    "oxyanion_acceptor_oxygen": "O2"
+  },
+  "thresholds_nm": {
+    "ser_his_cutoff": 0.35,
+    "his_acid_cutoff": 0.35,
+    "ser_carbonyl_attack_cutoff": 0.45,
+    "oxyanion_cutoff": 0.35
+  }
+}

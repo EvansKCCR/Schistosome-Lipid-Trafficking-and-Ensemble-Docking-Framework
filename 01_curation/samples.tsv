@@ -1,0 +1,4 @@
+species	fasta	domtblout
+Schistosoma_mansoni	Smansoni_proteins.fa	domtblout.txt
+Schistosoma_haematobium	Shaematobium_proteins.fa	shdomtblout.txt
+Schistosoma_japonicum	Sjaponicum_proteins.fa	Sjdomtblout.txt

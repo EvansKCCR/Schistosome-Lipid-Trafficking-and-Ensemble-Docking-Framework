@@ -1,0 +1,64 @@
+Family	Motif_ID	Consensus_Motif	Regex	Functional_Region	Conservation
+ABHD/HSL	HYDROLASE_GxSxG	GxSxG	G[A-Z]S[A-Z]G	α/β-hydrolase nucleophile loop	diagnostic
+ABHD/HSL	HYDROLASE_HGG_like	HGG/HGGG/HGS/HGA	HGGG?|HGS|HGA	HGG-like oxyanion motif	diagnostic
+CD36RP	CD36_LSM1	ATVNPLNAAFCPKKK	[AST]TVNPLNAAFCP[KQR][KQR][KR]	Trematode-specific	Extracellular structural motif
+CD36RP	CD36_LSM10	AVILIAVLLKRYKLT	AVI[LIV]IAVLL[KRT]R[YHF]KL[TS]	Trematode-specific	Membrane-associated regulatory motif
+CD36RP	CD36_LSM2	KYLRHKKRTYYYPHE	K[YFS]L[RKH][HQK]K[KRS]R[TNS]Y[YFW]Y[PHS]HE	Trematode-enriched	Basic/aromatic interaction motif
+CD36RP	CD36_LSM3	ADKKALSKISNYILK	ADKKA[LIV]SKI[SAT]N[YHF][ILV]LK	Trematode-specific	Cytoplasmic/regulatory motif
+CD36RP	CD36_LSM4	AVGWATATHDS	AVGW[AT]TA[TSA]HDS	Trematode-specific	Extracellular loop motif
+CD36RP	CD36_LSM5	YYEKNKGFCLN	[YF][YF]EKN[KRS]GFCL[ND]	Trematode-enriched	Cysteine-associated structural motif
+CD36RP	CD36_LSM6	ISFILLCALHPSIWF	ISFI[LIV]LCA[LIV]HP[SA]IWF	Trematode-specific	Hydrophobic membrane-associated motif
+CD36RP	CD36_LSM7	ISFIILCSIHPFLWL	ISFII[LIV]CSIHPF[LIV]W[LIV]	Trematode-specific	Putative transmembrane motif
+CD36RP	CD36_LSM8	QFGGISEPDEVDDNT	QF[GN]GISEPD[EV]VDD[NK]T	Trematode-enriched	Acidic extracellular motif
+CD36RP	CD36_LSM9	FHSKSDESPFVHWSV	FH[SA]KSDESPF[VH]HWSV	Trematode-divergent SR-B motif	Extracellular receptor motif
+CD36RP	CD36_M1	WHTDYANMINGTDGS	W[HRTKNSY][TSDEK][DCSN]YANMI[NG][GT]TDG[STQA]	Conserved extracellular ligand-binding motif	Extremely high
+CD36RP	CD36_M10	HYAQYVLLALGCVLL	[HQA][YF][AVQ][QY][YVF][VIL][LIV][LAV][AG][LIVG]C[VIL][LIV][LIV]	Transmembrane helix motif	Extremely high
+CD36RP	CD36_M11	GLGVVGLLCAVLGVV	G[LIV][GAV][VIL][VIL]G[LIV][LIV][LIV]C[AIV][VIL][LIV]G[VIL][VIL]	Hydrophobic transmembrane domain	Extremely high
+CD36RP	CD36_M12	NFTVLNLAVAAAPHI	[NHTLI][FTS][TVI][VLI][LIV]N[LIV][AV][VLI][AIV][AIV][APST][PHI][HIV][ILQ]	Membrane-associated structural motif	High
+CD36RP	CD36_M13	IPVYRFILPAKAFAS	I[PVL][VYT][YRF][RKH][FIV][IVL][LVP]P[AES][KDT][AFL][FIV][AST][SA]	Cytoplasmic/membrane interface motif	High
+CD36RP	CD36_M14	EPIDGLNPNEEEHRT	[EDAN][PVAI][IAVG][DGM][GLI][LIV][NQP][PTH][NED][EQT][EHD][EHS][HRN][RKT][TSA]	Acidic extracellular regulatory motif	Moderate-high
+CD36RP	CD36_M15	KEVVLEEGTIAFKNW	K[EQNR][VIL][VIL][LIV][EQD][EDG][GAS]T[IVA][AF][FY][KRN][NDS][WFY]	Conserved extracellular scaffold motif	High
+CD36RP	CD36_M2	FQTRTLRELLWGYKD	F[QVIN][TNRSK][RHK][TSVL][LVP][RNEK][EIQ][LIV]LWGY[KENRD]	Conserved lipid-interaction core	Extremely high
+CD36RP	CD36_M3	PLFLSQPHFYNADPV	P[LIVY][FIVY][LMSV][SQP][QGH]PHF[YLF][NQAG][AD][PKEV][VSK]	Extracellular hydrophobic pocket motif	Extremely high
+CD36RP	CD36_M4	GEKPQVRERGPYVYR	G[EQHKSA][KGRP][PIVK][QVLFR][VLFK][RQEA][EQLV]RGPY[VTIY][YRFW]R	Conserved extracellular loop motif	Very high
+CD36RP	CD36_M5	VYTQFYFFNVTNPEE	[VIFYL][YRFIQ][TSQLR][QFYS][FYW][YFIL][FYL][NDV][VLT][TQN][NP][PEQ][EAD]	Aromatic-rich ligand recognition motif	Extremely high
+CD36RP	CD36_M6	LRFFSSDICRSIYAV	L[REQY][FIVY][FY][SAVP][SPED][DNPF]I[CGR]RS[IVL][YHF][AIVL][VMT]	Conserved cysteine-associated motif	Very high
+CD36RP	CD36_M7	WPNCYEDGVLDMSSC	W[PSF]NC[YF][EDK][DGS][GPA][VLI][LIV]DM[SIT][SCT][SC]	Cysteine-rich extracellular structural motif	Very high
+CD36RP	CD36_M8	TTIGVFYPYNNTADG	[TPEG][TVN][IVAG][GSL][VLF][FY][YP][YF][NQ][NTS][TGS][AVP][DNE][GS]	Conserved glycosylation-associated region	High
+CD36RP	CD36_M9	FTVFTGVQNIS	F[TVI][VIL][FT][TG][VAI][QGK][NDS][IVT][SA]	Conserved hydrophobic core motif	High
+CEH	CEH_M1	RITLFGHSAGAHLVL	[RQK]ITL[FV]G[HE]SAG[A-G][HV][LIV][VLI]	Catalytic serine hydrolase motif	Extremely high
+CEH	CEH_M10	DSIFVSLSYRLAPKE	D[SAT]IFVSLSYRLAP[KEQ]E?	Conserved substrate recognition motif	Moderate-high
+CEH	CEH_M2	PVMVWIHGGSLIRGS	P[VIL]M[VIL]W[IY]HGGS[LIV][IRV][RG][SNA]	Catalytic pocket motif	Extremely high
+CEH	CEH_M3	MSEDCLYLNIWTRAN	[MILA]SEDC[LIF]YLNIW[TY][RKA][AQS]N	Aromatic substrate-binding region	Very high
+CEH	CEH_M4	NIVVVSIQYRLGPLG	N[IV]V[VIL][VSA]I[QTF]YRLGP[LIF]G	Lipid substrate interaction motif	Very high
+CEH	CEH_M5	GNMGLWDQRLAMKWI	GN[MQY]GL[WM]DQ[RVL][LVA][AITS][MKL][WFI]I?	Hydrophobic catalytic interface	Very high
+CEH	CEH_M6	QNSPIWSRLFSTFWS	QNSPIWSRL[FY]ST[FY]WS	Aromatic structural motif	High
+CEH	CEH_M7	NCPIIAVDYSLSPEA	[ND]CPIIAVDYSLSPEA	Conserved structural loop motif	High
+CEH	CEH_M8	AVMLWIYGGSFYMGT	A[VIL]M[LIV]WIYGGS[FY][YMF]MGT	Catalytic hydrophobic pocket	High
+CEH	CEH_M9	ALEECYYAYCWITLN	ALEEC[YF][YF]AYCWITL[NK]	Aromatic/cysteine-rich structural motif	High
+NPC1	NPC1_M1	EKEYFDQHFGPFFRT	EK[AEKSN]YFD[QKEH]H?FGPF[FY]R[TIM]	Conserved luminal/core structural motif	Very high
+NPC1	NPC1_M10	GPPVYFVVEEGHNYT	G[AP]P[VLY]YF[VVI][VTL][ET]G[HY][NFD][YTS]	Conserved extracellular loop motif	High
+NPC1	NPC1_M11	GISVEFCSHITRAFT	G[IM]SVEF[CVA][SAH]HI[TV]R[AS]F[TAK]	Conserved luminal structural motif	High
+NPC1	NPC1_M12	DQKLSMPTDSYMLDY	DQ[KE]L[SA][MLP][PDT]K?D?S[YH][MLI][DL][YKF]	Conserved acidic/aromatic motif	Moderate-high
+NPC1	NPC1_M13	GCAITSPIEYFQNNL	[GDRN]C[AC]I[TM][SP][PLI][IE]YFQN[NQ][LRI]	Conserved luminal interface	High
+NPC1	NPC1_M14	MWLWGISLNAVSLVN	M[AWY][LV]WG[IY][SIT][LTV]NA[VAI]SL[VIA]N	Hydrophobic membrane-associated motif	Very high
+NPC1	NPC1_M15	GQNMVCGGMGCNNDS	GQN[MQ][VLI]CG[GSA][MT]GC[NY][NDS][DTS]S?	Cysteine-rich conserved luminal motif	Very high
+NPC1	NPC1_M2	WIDDYFDWVKPQSSC	W[IVL]DD[YF][FI]DW[VLI][KLT][PT][QPS][SCD][SC]	Aromatic-rich conserved luminal motif	Very high
+NPC1	NPC1_M3	TDPVELWSAPKSQAR	T[DN]PV[ED]LWS[A-G]P[KGHN]S[QER]A[RR]	Conserved linker/structural interface	High
+NPC1	NPC1_M4	FPYSVFYVFYEQYLT	F[APY]Y[ST][VTI][FY][YVFI]FYEQYLT	Aromatic/sterol interaction region	Very high
+NPC1	NPC1_M5	RCPACFANFRLLFCA	RCP[AS]C[FSD][AYN]NF[RKV][LMI][LHF][FWC][CAE]	Cysteine-rich luminal domain	Very high
+NPC1	NPC1_M6	MPAVRVFALYAAMAI	[MLV]PA[VIR][RHK][VTF]FA[LRT][YTS][AAG][AML][AVI]	Transmembrane-associated hydrophobic region	High
+NPC1	NPC1_M7	VSFTAERSVEDEIER	[VIF][SAFT]F[TM]AERS[VLI]EDEI[ENR][RNH]	Acidic structural motif	High
+NPC1	NPC1_M8	VIPFLVLAVGVDNIF	V[IV]PFLV[LAS]A[VGI]G[VAD]DNIF	Sterol-sensing/transmembrane region	Extremely high
+NPC1	NPC1_M9	DNPNPKCGKGGHAAY	D[NT][PGR]N[PIS][KR]C[GP][KVG]GG[HK][AAS]A[YFS]	Cysteine/glycine-rich extracellular motif	High
+NPC2	NPC2_M1	PCALYKGQNATITIE	P[CN]A[LPT][YH][KRE]GQ[NK][AST][TIV][ITV][IEA]	Conserved NPC2 core fold	Extremely high
+NPC2	NPC2_M10	MVALWFVS	M[IVA]ALW[FY][VIL][SAIT]	Signal peptide / secretion motif	Moderate
+NPC2	NPC2_M2	SVHGVIAHVPVPFPL	[SVI][VE]HG[VKI][ILAV][AGH]H[VG]P[VMI]PF[PAL][LIV]	Hydrophobic lipid-binding region	Extremely high
+NPC2	NPC2_M3	MYPSISLTVRWELQD	[MES]Y[PFS][SQI][ISV]SLT[IV]RWE[LQ][QED]D?	Conserved sterol-binding structural motif	Very high
+NPC2	NPC2_M4	ELCNFVSPVCPLIPS	[EDN][LQ]C[ENF][FV]VSP[TV]CP[LIV][IPV][PST]S	Cysteine-rich structural motif	Very high
+NPC2	NPC2_M5	SSNEDIVCVEFPVQL	[SD][SN][NDE][EQD]DI[VT]C[VLI]EFPVQ[LIV]	Conserved acidic binding interface	Very high
+NPC2	NPC2_M6	IKLLTQTYDLC	I[KRL][LIV][LIV][TSQ][QEH]T[YHF]DLC	Conserved compact core motif	High
+NPC2	NPC2_M7	KVGKLHSLTVTPCDR	[KWA]V[GKP][GK][LIV][HKS]SLT[VMI]TPCD[RK]	Conserved cysteine-associated motif	High
+NPC2	NPC2_M8	FTSNIQSKSSK	F[TSA][SNT][NGQ][IQE][QSV][SKT][KNS][SGT][SKH]	Flexible surface/loop motif	Moderate
+NPC2	NPC2_M9	TYSYLNKLPVK	T[YFS][SNY][YVF]LNKLPV[KQ]	Vertebrate-associated conserved motif	Moderate-high
+Secretory/ecto	N_GLYCO	N-x-S/T, x != P	N[^P][ST]	putative N-linked glycosylation sequon	context-dependent

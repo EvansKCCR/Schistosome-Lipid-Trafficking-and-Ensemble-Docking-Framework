@@ -1,0 +1,5 @@
+family	motif	mode	note
+CEH_alpha_beta_hydrolase	HGG	exact	Oxyanion-hole-like hydrolase motif used for CEH/HSL-like screening
+CEH_alpha_beta_hydrolase	GESAG	exact	Nucleophile-loop motif used in Evans' CEH analyses
+generic_serine_hydrolase	G.S.G	regex	Broad GxSxG regex fallback; run with --motif-mode regex
+generic_N_glycosylation	N[^P][ST]	regex	N-glycosylation sequon; run with --motif-mode regex

@@ -1,0 +1,9 @@
+{
+  "ptm": 0.82,
+  "iptm": 0.74,
+  "ranking_score": 0.78,
+  "pae": [[1.0, 2.0], [2.0, 1.0]],
+  "plddt": [89, 88, 91],
+  "chain_pair_iptm": [[0.9, 0.7], [0.7, 0.8]],
+  "affinity_probability_binary": 0.63
+}

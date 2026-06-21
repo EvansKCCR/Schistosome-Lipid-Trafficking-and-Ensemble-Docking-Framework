@@ -1,0 +1,3 @@
+$ mk_prepare_receptor.py -i receptor.pdb -o receptor -p -v \
+--box_size 33.5 27.5 24.5 --box_center 53.75 45.5 56.5 \
+-f A:508 -a

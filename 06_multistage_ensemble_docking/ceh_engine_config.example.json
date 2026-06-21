@@ -1,0 +1,13 @@
+{
+  "engine": "ceh",
+  "ser_resid": 207,
+  "his_resid": 508,
+  "acid_resid": 388,
+  "alternative_acid_resid": 206,
+  "oxyanion_resids": [127, 128, 129],
+  "contact_cutoff_A": 4.5,
+  "ser_carbonyl_distance_productive_max_A": 4.0,
+  "burgi_dunitz_angle_range_deg": [90, 120],
+  "ser_his_distance_ready_max_A": 3.5,
+  "acid_his_distance_ready_max_A": 3.5
+}

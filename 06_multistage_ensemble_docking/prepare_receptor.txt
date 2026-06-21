@@ -1,0 +1,1 @@
+mk_prepare_receptor.py -i pdb_fixed/RPI_receptor.pdb -p receptor_grid/RP1_receptor_grid.pdbqt --box_enveloping ligand_pdbqt/rank1_rp1_ce18_1.pdbqt --padding 4 -v receptor_grid/RP1_box.txt

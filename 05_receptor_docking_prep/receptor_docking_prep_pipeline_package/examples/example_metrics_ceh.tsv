@@ -1,0 +1,4 @@
+model	molprobity_score	clashscore	rama_outliers_%	cablam_severe_%	voromqa_light_score	rmsd_mean	rmsd_std	rmsf_mean	rg_std	sasa_std	TM_score	Q_score	CMO	pocket_rmsd_A	catalytic_distance_delta_A	distance_ser_his_std	HGG_plddt_mean	GESAG_plddt_mean
+CEH_model_A	1.70	6.0	0.0	0.0	0.73	0.19	0.020	0.08	0.010	1.6	0.91	0.78	0.84	0.72	0.08	0.020	88.5	86.2
+CEH_model_B	2.20	11.5	0.4	0.2	0.68	0.23	0.044	0.11	0.018	2.4	0.86	0.70	0.78	1.30	0.35	0.060	82.3	79.0
+CEH_model_C	2.90	20.1	1.3	1.2	0.50	0.33	0.095	0.20	0.050	5.2	0.76	0.60	0.65	2.40	0.95	0.120	69.0	65.5

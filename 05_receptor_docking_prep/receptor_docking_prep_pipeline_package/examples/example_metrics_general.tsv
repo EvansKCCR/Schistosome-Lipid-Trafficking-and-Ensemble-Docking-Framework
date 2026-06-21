@@ -1,0 +1,4 @@
+model	molprobity_score	clashscore	rama_outliers_%	cablam_severe_%	voromqa_light_score	rmsd_mean	rmsd_std	rmsf_mean	rg_std	sasa_std	TM_score	Q_score	CMO
+NPC2_model_A	1.75	7.2	0.0	0.0	0.71	0.18	0.025	0.09	0.012	1.8	0.88	0.72	0.81
+NPC2_model_B	2.10	10.4	0.3	0.2	0.66	0.22	0.041	0.12	0.021	2.5	0.82	0.66	0.75
+NPC2_model_C	2.80	18.0	1.4	0.9	0.55	0.35	0.090	0.18	0.040	4.9	0.70	0.55	0.61

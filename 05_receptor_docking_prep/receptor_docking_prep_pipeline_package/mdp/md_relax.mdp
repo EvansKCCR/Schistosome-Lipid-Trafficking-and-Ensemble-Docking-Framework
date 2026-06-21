@@ -1,0 +1,38 @@
+define                  = -DPOSRES_BB
+
+integrator              = md
+
+dt                      = 0.002
+nsteps                  = 250000
+
+continuation            = no
+
+gen_vel                 = yes
+gen_temp                = 300
+
+tcoupl                  = V-rescale
+tc-grps                 = Protein Water_and_ions
+
+tau_t                   = 0.1 0.1
+ref_t                   = 300 300
+
+pcoupl                  = Parrinello-Rahman
+pcoupltype              = isotropic
+
+tau_p                   = 2.0
+ref_p                   = 1.0
+compressibility         = 4.5e-5
+
+constraints             = h-bonds
+
+cutoff-scheme           = Verlet
+
+coulombtype             = PME
+rcoulomb                = 1.0
+
+rvdw                    = 1.0
+
+nstxout-compressed      = 1000
+nstenergy               = 1000
+
+pbc                     = xyz

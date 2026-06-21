@@ -1,0 +1,11 @@
+# Optional residue-set file for upstream VoroMQA pocket scoring.
+# Use one residue per line. Accepted examples:
+# A:128
+# A:129
+# A:130
+# A:206
+# A:207
+# A:508
+#
+# The integrated selection engine itself consumes the resulting pocket metrics,
+# e.g. pocket_rmsd_A, catalytic_distance_delta_A, and motif pLDDT columns.

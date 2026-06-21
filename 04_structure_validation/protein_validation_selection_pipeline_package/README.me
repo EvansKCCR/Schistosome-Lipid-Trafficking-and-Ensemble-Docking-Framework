@@ -1,0 +1,50 @@
+# Integrated Protein Structural Validation and Representative Model Selection Pipeline
+
+Use `protein_model_validation_selection_pipeline.py` to rank protein models and select representative structures for downstream docking, MD simulation, or manuscript reporting.
+
+## Hydrolase/CEH mode
+
+```bash
+python protein_model_validation_selection_pipeline.py \
+  --metrics-table CEH_combined_model_selection.csv \
+  --engine hydrolase \
+  --family "alpha/beta hydrolase" \
+  --outdir ceh_representative_selection
+```
+
+The hydrolase engine prioritizes pocket RMSD, catalytic-distance preservation, HGG/GESAG motif pLDDT, and strict structural validation.
+
+## General mode
+
+```bash
+python protein_model_validation_selection_pipeline.py \
+  --metrics-table quality_matrices.xlsx \
+  --sheet "Table S6" \
+  --engine general \
+  --outdir general_model_selection
+```
+
+The general engine balances MolProbity, CaBLAM, VoroMQA, Foldseek/TMalign similarity, and confidence metrics.
+
+## Outputs
+
+- `all_models_scored.tsv`
+- `representative_models.tsv`
+- `structural_validation_selection.xlsx`
+- `validation_selection_report.md`
+- `plots/top_selection_scores.png`
+- hydrolase pocket plot when hydrolase metrics are available
+
+## Optional tools
+
+The pipeline can optionally call MolProbity, CaBLAM, VoroMQA, TMalign, and Foldseek if installed.
+
+```bash
+python protein_model_validation_selection_pipeline.py \
+  --models-dir models \
+  --templates-dir templates \
+  --convert-cif \
+  --run-external-validation \
+  --run-tmalign \
+  --outdir validation_with_templates
+```
